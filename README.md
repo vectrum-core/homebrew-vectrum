@@ -1,5 +1,4 @@
-# homebrew-vectrum
-Homebrew Tap for VECTRUM
+# Homebrew Tap for VECTRUM
 
 ## Mac OS X Brew Install
 ```sh
