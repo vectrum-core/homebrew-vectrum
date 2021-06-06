@@ -16,7 +16,7 @@ class Vectrum < Formula
 
    bottle do
       root_url "https://github.com/vectrum-core/vectrum/releases/download/v0.1.0"
-      sha256 "b45afa861a16c3248bb14b3479057e4bd32a9cf1d71672bfbe7abaea22f992ad" => :catalina
+      sha256 "5848034902fc1797fceebf3ca0e31cf0c9d42049248b049b47121ec392170d71" => :catalina
    end
    def install
       raise "Error, only supporting binary packages at this time"
